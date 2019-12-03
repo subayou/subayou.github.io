@@ -2,8 +2,15 @@
 				padding: 0px;
 				margin: 0px;
 }
-.html{
+span{
+				/*设置文字阴影*/
+				/*语法:text-shadow: h-shadow v-shadow blur color;*/
+				text-shadow:2px 2px 8px #E16B8C
 
+
+}
+.html{
+				
 
 
 }
