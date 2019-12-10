@@ -1,5 +1,4 @@
 //问候语
-function Now_Time(){
 	var today = new Date()
 	var hour = Date.getHours()
 	var greeting;
@@ -15,5 +14,3 @@ function Now_Time(){
 
 	document.write('<h3>'+greeting +'</h3>')
 
-
-}
