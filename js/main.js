@@ -1,6 +1,6 @@
 //问候语
 	var today = new Date()
-	var hour = Date.getHours()
+	var hour = today.getHours()
 	var greeting;
 	if (hour > 18){
 		greeting = 'Good evening'
